@@ -1,34 +1,45 @@
-# Reposit-rio_do_Alisson
-teste
-
 <!DOCTYPE html>
 <html lang="pt-BR">
     <head>
 
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale-1.0">
-        <title>Programação Front-End</title>
-        <style>
+    <style>
+
         body {
             background-color: 
-            #F0F8F0
+            #F5FFFA
         }
 
         p {
-            font-size: 50px;
-            color:
-            #000000;
+            font-size: 40px;
+            color:#5fee00e3;
         }
+
+        h1 {
+            font-size: 50px;
+            color:#006400;
+
+        }
+
+        h2 { 
+            font-size: 250px;
+            color: #00008B;
+
+        }
+
+
+       
     </style>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale-1.0">
+    <title>Programação Front-End</title>
+
     </head>
-        
-         <h1> Front-End</h1>
-         <p>Linguagens de Programação</p>
+    <body>
 
+         <h1>Programação Front-End - site teste de Bruno Rodrigues</h1>
+         <p>Linguagens de Programação:</p>
+         <h2>HTML</h2>
 
-
-
-
-
-         <img scr="">
-</html>bruno rodrigues
+    </body>
+</html>Bruno Rogrigues
