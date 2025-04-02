@@ -35,9 +35,8 @@
 
      <h1>Programação Front-End - site teste de Bruno Rodrigues</h1>
      <p>Linguagens de Programação:</p>
-     <l1>teste</l1>
+     <p1>teste 02</p1>
 
-     <img src="Vermelho_240.webp"/>
-
+     <img height="300px" src="pngwing.com.png" />
 
 </body>
