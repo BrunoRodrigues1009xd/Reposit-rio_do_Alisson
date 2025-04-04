@@ -1,23 +1,22 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    
+    <h1>Programação Front-End - site teste de Bruno Rodrigues</h1>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,
      initial-scale-1.0">
-     <h1>Programação Front-End - site teste de Bruno Rodrigues</h1>
-     <img height="200px" src="pngwing.com.png" /> <img height="200px" src="JavaScript-logo.png"/>
 </head>
 <body>
 
     <p>Linguagens de Programação:</p>
 
+    <img height="200px" src="pngwing.com.png" /> <img height="200px" src="JavaScript-logo.png"/>
 
      <style>
 
         body {
             background-color:
-            #F0F8FF
+            #F0F8FF 
         }
     
         h1 {
