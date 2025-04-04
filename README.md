@@ -18,7 +18,7 @@
 
         body {
             background-color:
-            #F0F8FF 
+            #8bd3e6
         }
     
         h1 {
