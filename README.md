@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <h1>Programação Front-End - site teste de Bruno Rodrigues</h1>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,
-     initial-scale-1.0">
+    initial-scale-1.0">
+    <h1>Programação Front-End - site teste de Bruno Rodrigues</h1>
+    <link rel="Icon" type="image/png" href="Vermelho_240.webp">
+
 </head>
 <body>
 
     <p>Linguagens de Programação:</p>
 
-    <img height="200px" src="pngwing.com.png" /> <img height="200px" src="JavaScript-logo.png"/>
+    <img height="200px" src="pngwing.com.png" /> <img height="200px" src="JavaScript-logo.png"/> 
 
      <style>
 
