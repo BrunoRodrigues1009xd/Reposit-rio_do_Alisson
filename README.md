@@ -13,29 +13,24 @@
     <p>Linguagens de Programação:</p>
 
     <img height="200px" src="pngwing.com.png" /> <img height="200px" src="JavaScript-logo.png"/> 
-
-     <style>
+    
+    <style>
 
         body {
             background-color:
-            #8bd3e6
+            #363636
         }
     
         h1 {
             font-size: 50px;
-            color:#000000e3;
+            display: inline;
+            color: white;
         }
     
         p {
             font-size: 40px;
-            color:#000000;
+            color:white;
             text-align:left;    
-        }
-    
-        h2 { 
-            font-size: 250px;
-            color: #000000;
-    
         }
     
     
