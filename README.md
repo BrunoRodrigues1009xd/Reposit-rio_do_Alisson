@@ -27,3 +27,16 @@
  
 </body>
 </html>
+
+
+div {
+     background-color: whitesmoke;
+     text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    display: inline;
+    margin-left: 20px;
+
+}
