@@ -4,6 +4,9 @@
     <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Loja Online de Jogos</title>
     <link rel="shortcut icon" href="Vermelho_240 - Copia.webp" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Varela+Round&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -28,12 +31,11 @@
       <li>JavaScript</li>
       <li>Python</li>
    </ul>
-   <img src="Vermelho_240 - Copia.webp">
+   <img height="850px" src="860645.png">
    <a href="https://google.com.br">Link para o Google</a>
  
 </body>
 </html>
-
 
 
 div {
@@ -42,6 +44,8 @@ div {
 }
 
 h1 {
+    color: aliceblue;
+    text-shadow: 1px 1px 0px black, -1px -1px 0px black ;
     font-size: 90px;
     display: inline-table ;
     margin-right: 50px;
@@ -52,5 +56,6 @@ h1 {
 }
 
 body {
-    background-color:#ABF7B1
+    background-color:#abf7b1;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
